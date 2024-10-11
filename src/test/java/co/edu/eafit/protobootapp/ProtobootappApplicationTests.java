@@ -3,7 +3,7 @@ package co.edu.eafit.protobootapp;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-//Prueba de integración
+//Prueba de sistema
 @SpringBootTest
 class ProtobootappApplicationTests {
 
